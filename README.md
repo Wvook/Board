@@ -10,6 +10,9 @@ Java SpringBoot를 이용한 게시판입니다.
 ## ⚙️기술 스택
 
 ### Back-end
+<img src = "https://github.com/user-attachments/assets/c748e4ab-9c01-4e35-a5a4-3a874cf96555.png" width = "100" height = "100">
+
+
 ![Java](https://github.com/user-attachments/assets/c748e4ab-9c01-4e35-a5a4-3a874cf96555)
 ![SpringBoot](https://github.com/user-attachments/assets/249723dd-4152-4462-ae32-337a328183b3)
 ![SpringDataJPA](https://github.com/user-attachments/assets/81f7b906-0cb1-4976-85a0-5fb42c0470b0)
