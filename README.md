@@ -9,6 +9,9 @@ Java SpringBoot를 이용한 게시판입니다.
 
 ## ⚙️개발환경
 - `Java 17`
-- **SpringBoot** : 2.
+- **Framework** : `Springboot(3.x)`
 - **DataBase** : `MySQL`
-- 
+- **ORM** : `Mybatis`
+
+## ✨주요 기능
+### 로그인
